@@ -1,0 +1,94 @@
+.bg-printer {
+    width: 28px; height: 28px;
+    background: url('css_sprites.png') -10px -66px;
+}
+
+x
+.bg-printer_lg {
+    width: 28px; height: 28px;
+    background: url('css_sprites.png') -58px -66px;
+}
+
+x
+.bg-printer_sm {
+    width: 16px; height: 16px;
+    background: url('css_sprites.png') -54px -160px;
+}
+
+x
+.bg-question {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -102px -114px;
+}
+
+x
+.bg-radio_selected {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -168px -10px;
+}
+
+x
+.bg-radio_unselected {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -168px -54px;
+}
+
+x
+.bg-success {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -122px -10px;
+}
+
+x
+.bg-warning {
+    width: 36px; height: 36px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-checkboc_unselected {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -168px -98px;
+}
+
+x
+.bg-checkbox_selected {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -10px -160px;
+}
+
+x
+.bg-delete {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -122px -56px;
+}
+
+x
+.bg-Error {
+    width: 36px; height: 36px;
+    background: url('css_sprites.png') -66px -10px;
+}
+
+x
+.bg-eye {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -10px -114px;
+}
+
+x
+.bg-eye_slash {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -56px -114px;
+}
+
+x
+.bg-minus {
+    width: 16px; height: 16px;
+    background: url('css_sprites.png') -90px -160px;
+}
+
+x
+.bg-plus {
+    width: 16px; height: 16px;
+    background: url('css_sprites.png') -126px -160px;
+}
