@@ -1,0 +1,88 @@
+.bg-exclamation_lg {
+    width: 14px; height: 14px;
+    background: url('css_sprites.png') -10px -86px;
+}
+
+x
+.bg-exclamation_md {
+    width: 12px; height: 12px;
+    background: url('css_sprites.png') -122px -78px;
+}
+
+x
+.bg-exclamation_sm {
+    width: 10px; height: 10px;
+    background: url('css_sprites.png') -42px -120px;
+}
+
+x
+.bg-eye_lg {
+    width: 18px; height: 18px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-eye_md {
+    width: 16px; height: 16px;
+    background: url('css_sprites.png') -48px -48px;
+}
+
+x
+.bg-eye_slash_lg {
+    width: 18px; height: 18px;
+    background: url('css_sprites.png') -48px -10px;
+}
+
+x
+.bg-eye_slash_md {
+    width: 16px; height: 16px;
+    background: url('css_sprites.png') -86px -10px;
+}
+
+x
+.bg-eye_slash_sm {
+    width: 14px; height: 14px;
+    background: url('css_sprites.png') -44px -86px;
+}
+
+x
+.bg-eye_sm {
+    width: 14px; height: 14px;
+    background: url('css_sprites.png') -78px -86px;
+}
+
+x
+.bg-question_lg {
+    width: 18px; height: 18px;
+    background: url('css_sprites.png') -10px -48px;
+}
+
+x
+.bg-question_md {
+    width: 16px; height: 16px;
+    background: url('css_sprites.png') -86px -46px;
+}
+
+x
+.bg-question_sm {
+    width: 14px; height: 14px;
+    background: url('css_sprites.png') -122px -10px;
+}
+
+x
+.bg-success_lg {
+    width: 14px; height: 14px;
+    background: url('css_sprites.png') -122px -44px;
+}
+
+x
+.bg-success_md {
+    width: 12px; height: 12px;
+    background: url('css_sprites.png') -10px -120px;
+}
+
+x
+.bg-success_sm {
+    width: 10px; height: 10px;
+    background: url('css_sprites.png') -72px -120px;
+}
