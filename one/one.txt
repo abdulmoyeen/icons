@@ -1,0 +1,41 @@
+.omni-uierror, .omni-uiwarning, .omni-uiprinter, .omni-uiprinter-light, .omni-uidelete, 
+.omni-uiexclamation, .omni-uieye, .omni-uieye-slash, .omni-uisuccess, .omni-uicheckbox-selected, 
+.omni-uicheckbox-unselected, .omni-uiquestion, .omni-uiradio-selected, .omni-uiradio-unselected, .omni-uiminus, 
+.omni-uiplus, .omni-uiprinter-sm
+{ display: inline-block; background: url('png.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+ 
+.omni-uierror { background-position: -0px -0px; width: 36px; height: 36px; }
+.omni-uiwarning { background-position: -0px -36px; width: 36px; height: 36px; }
+.omni-uiprinter { background-position: -0px -72px; width: 28px; height: 28px; }
+.omni-uiprinter-light { background-position: -0px -100px; width: 28px; height: 28px; }
+.omni-uidelete { background-position: -0px -128px; width: 26px; height: 26px; }
+.omni-uiexclamation { background-position: -0px -154px; width: 26px; height: 26px; }
+.omni-uieye { background-position: -0px -180px; width: 26px; height: 26px; }
+.omni-uieye-slash { background-position: -0px -206px; width: 26px; height: 26px; }
+.omni-uisuccess { background-position: -0px -232px; width: 26px; height: 26px; }
+.omni-uicheckbox-selected { background-position: -0px -258px; width: 24px; height: 24px; }
+.omni-uicheckbox-unselected { background-position: -0px -282px; width: 24px; height: 24px; }
+.omni-uiquestion { background-position: -0px -306px; width: 24px; height: 24px; }
+.omni-uiradio-selected { background-position: -0px -330px; width: 24px; height: 24px; }
+.omni-uiradio-unselected { background-position: -0px -354px; width: 24px; height: 24px; }
+.omni-uiminus { background-position: -0px -378px; width: 16px; height: 16px; }
+.omni-uiplus { background-position: -16px -378px; width: 16px; height: 16px; }
+.omni-uiprinter-sm { background-position: -0px -394px; width: 16px; height: 16px; }
+
+<div class="omni-uierror"></div>
+<div class="omni-uiwarning"></div>
+<div class="omni-uiprinter"></div>
+<div class="omni-uiprinter-light"></div>
+<div class="omni-uidelete"></div>
+<div class="omni-uiexclamation"></div>
+<div class="omni-uieye"></div>
+<div class="omni-uieye-slash"></div>
+<div class="omni-uisuccess"></div>
+<div class="omni-uicheckbox-selected"></div>
+<div class="omni-uicheckbox-unselected"></div>
+<div class="omni-uiquestion"></div>
+<div class="omni-uiradio-selected"></div>
+<div class="omni-uiradio-unselected"></div>
+<div class="omni-uiminus"></div>
+<div class="omni-uiplus"></div>
+<div class="omni-uiprinter-sm"></div>

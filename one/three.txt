@@ -1,0 +1,137 @@
+.omni-ui-img-printer
+{
+background:url('css-sprite-combined.png') 0px -8px;
+width:28px;height:28px;
+display:inline-block;
+}
+
+.omni-ui-img-printer_light
+{
+background:url('css-sprite-combined.png') -28px -8px;
+width:28px;height:28px;
+display:inline-block;
+}
+
+.omni-ui-img-printer_sm
+{
+background:url('css-sprite-combined.png') -56px -20px;
+width:16px;height:16px;
+display:inline-block;
+}
+
+.omni-ui-img-question
+{
+background:url('css-sprite-combined.png') -72px -12px;
+width:24px;height:24px;
+display:inline-block;
+}
+
+.omni-ui-img-radio_selected
+{
+background:url('css-sprite-combined.png') -96px -12px;
+width:24px;height:24px;
+display:inline-block;
+}
+
+.omni-ui-img-radio_unselected
+{
+background:url('css-sprite-combined.png') -120px -12px;
+width:24px;height:24px;
+display:inline-block;
+}
+
+.omni-ui-img-success
+{
+background:url('css-sprite-combined.png') -144px -10px;
+width:26px;height:26px;
+display:inline-block;
+}
+
+.omni-ui-img-warning
+{
+background:url('css-sprite-combined.png') -170px -0px;
+width:36px;height:36px;
+display:inline-block;
+}
+
+.omni-ui-img-checkbox-selected
+{
+background:url('css-sprite-combined.png') -206px -12px;
+width:24px;height:24px;
+display:inline-block;
+}
+
+.omni-ui-img-checkbox-unselected
+{
+background:url('css-sprite-combined.png') -230px -12px;
+width:24px;height:24px;
+display:inline-block;
+}
+
+.omni-ui-img-delete
+{
+background:url('css-sprite-combined.png') -254px -10px;
+width:26px;height:26px;
+display:inline-block;
+}
+
+.omni-ui-img-Error
+{
+background:url('css-sprite-combined.png') -280px -0px;
+width:36px;height:36px;
+display:inline-block;
+}
+
+.omni-ui-img-exclamation
+{
+background:url('css-sprite-combined.png') -316px -10px;
+width:26px;height:26px;
+display:inline-block;
+}
+
+.omni-ui-img-eye
+{
+background:url('css-sprite-combined.png') -342px -10px;
+width:26px;height:26px;
+display:inline-block;
+}
+
+.omni-ui-img-eye_slash
+{
+background:url('css-sprite-combined.png') -368px -10px;
+width:26px;height:26px;
+display:inline-block;
+}
+
+.omni-ui-img-minus
+{
+background:url('css-sprite-combined.png') -394px -20px;
+width:16px;height:16px;
+display:inline-block;
+}
+
+.omni-ui-img-plus
+{
+background:url('css-sprite-combined.png') -410px -20px;
+width:16px;height:16px;
+display:inline-block;
+}
+
+
+<span class="omni-ui-img-printer"></span>
+<span class="omni-ui-img-printer_light"></span>
+<span class="omni-ui-img-printer_sm"></span>
+<span class="omni-ui-img-question"></span>
+<span class="omni-ui-img-radio_selected"></span>
+<span class="omni-ui-img-radio_unselected"></span>
+<span class="omni-ui-img-success"></span>
+<span class="omni-ui-img-warning"></span>
+<span class="omni-ui-img-checkbox-selected"></span>
+<span class="omni-ui-img-checkbox-unselected"></span>
+<span class="omni-ui-img-delete"></span>
+<span class="omni-ui-img-Error"></span>
+<span class="omni-ui-img-exclamation"></span>
+<span class="omni-ui-img-eye"></span>
+<span class="omni-ui-img-eye_slash"></span>
+<span class="omni-ui-img-minus"></span>
+<span class="omni-ui-img-plus"></span>
